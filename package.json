@@ -1,6 +1,6 @@
 {
   "name": "am-display",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CSS display utilities",
   "main": "index.css",
   "style": "index.css",
