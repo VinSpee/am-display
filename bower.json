@@ -1,0 +1,23 @@
+{
+  "name": "am-display",
+  "homepage": "https://github.com/VinSpee/am-display",
+  "authors": [
+    "Vince Speelman <v@vinspee.me>"
+  ],
+  "description": "CSS display utilities",
+  "main": "index.css",
+  "keywords": [
+    "css",
+    "suitcss",
+    "am-css",
+    "am"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "am-display",
+  "version": "0.1.0",
+  "description": "CSS display utilities",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/am-display.git"
+  },
+  "keywords": [
+    "css",
+    "am-css",
+    "am",
+    "css",
+    "suit",
+    "suitcss"
+  ],
+  "author": "Vince Speelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinSpee/am-display/issues"
+  },
+  "homepage": "https://github.com/VinSpee/am-display"
+}
